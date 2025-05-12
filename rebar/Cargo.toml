@@ -1,0 +1,10 @@
+[package]
+name = "rebar"
+version = "0.1.0"
+edition = "2024"
+license = "MIT OR Apache-2.0"
+description = "A hardware agnostic debug probe framework written in Rust."
+repository = "https://github.com/Wtoll/rebar"
+
+[dependencies]
+embedded-hal = "1.0.0"
